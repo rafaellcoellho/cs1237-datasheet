@@ -1,6 +1,5 @@
 # CS1237 datasheet translation
 
-I am not fluent in English, much less in Chinese.
 When I had to use this chip, I could not find the datasheet in English anywhere. 
 Then, I decided to use google translator and learn some LaTex.
 
